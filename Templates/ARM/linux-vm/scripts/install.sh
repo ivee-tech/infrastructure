@@ -4,7 +4,7 @@ sudo apt update
 sudo apt upgrade -y
 
 # install CLI tools
-sudo apt install tmux git ranger vim
+sudo apt install tmux git ranger vim -y
 
 #install LXDE
 sudo apt install lubuntu-desktop -y
